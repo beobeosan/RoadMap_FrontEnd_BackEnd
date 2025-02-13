@@ -49,7 +49,4 @@ tags:
 > [!NOTE]
     >  لو عايز تختصر، ركز على **Node.js + Express + PostgreSQL + Prisma** كبداية
 
-
-![[RoadMap-FrontEnd-BackEnd/1.jpg]]
-![[RoadMap-FrontEnd-BackEnd/2.jpg]]
-![[RoadMap-FrontEnd-BackEnd/3.jpg]]
+<img scr='1.jpg'>
